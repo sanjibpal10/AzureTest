@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\SanjibPal\\Documents\\GitHub\\AzureTest\\test\\test.csproj",
+      "projectUniqueName": "C:\\Users\\SanjibPal\\Documents\\GitHub\\AzureTest\\test.csproj",
       "projectName": "test",
-      "projectPath": "C:\\Users\\SanjibPal\\Documents\\GitHub\\AzureTest\\test\\test.csproj",
+      "projectPath": "C:\\Users\\SanjibPal\\Documents\\GitHub\\AzureTest\\test.csproj",
       "packagesPath": "C:\\Users\\SanjibPal\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\SanjibPal\\Documents\\GitHub\\AzureTest\\test\\obj\\",
+      "outputPath": "C:\\Users\\SanjibPal\\Documents\\GitHub\\AzureTest\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\SanjibPal\\AppData\\Roaming\\NuGet\\NuGet.Config",
